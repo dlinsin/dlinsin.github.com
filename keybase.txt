@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/dlinsin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://linsin.de
+  * I am dlinsin (https://keybase.io/dlinsin) on keybase.
+  * I have a public key with fingerprint B98C 72CA C55D B9F6 BAF4  493E 2F8C 5984 DB0E 3459
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b98c72cac55db9f6baf4493e2f8c5984db0e3459",
+            "host": "keybase.io",
+            "key_id": "2F8C5984DB0E3459",
+            "uid": "086715117473e5f8a5a99053eb0f5200",
+            "username": "dlinsin"
+        },
+        "service": {
+            "hostname": "linsin.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398321948,
+    "expire_in": 157680000,
+    "prev": "8c0f52bd0621eb45d2488b9eda9cceae4abfa6dfb2aca28b0991ea35716f70a4",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMX4+0WIF0vkyxmMpw+8TWIIjtisVq2UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslJIsLZLNjZITk01NU5Is08ySEtNMTCyNU43SLJJNLS1MUpIMUo1NTC2V
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgqJGbhTNIvYuTgStUfSlYwsDCzNzQ1NDQ
+3MTcONU0zSLRNNHS0sDUODXJIM3UyMAApLA4tSgvMTcVqDolJzOvODNPqVZHCShY
+lpmcCnIyyGaoAoi8XkoqUF9BUX5JfnJ+DlA4o6SkwAqkq6SyAKSsPDUpHmpAfFJm
+XgrQz0ANZalFxZn5eUpWhkCVySWZIBMNjS0tjI0MLU0sdJRSKwoyi1LjM0EqTM3N
+LAyAAGRNahnQSItkkIOTUgzMjAxTk0xMU4xMLCySLFNTEi2Tk1MTU00Sk9ISzVLS
+kowSkxONLJIMLC0NUxONTc0NzdLMDRJNlEBeKszLV7IyATozMR1oZHFmel5iSWlR
+qlJtJ5MMCwMjFwMbKxMo1hi4OAVgcTmFj/+vWEJ5yAPHhFPlU9cL1Zw9m63NZs35
+YY66yxPuAIW4m+Fa6inPojK2Z/7IU9ulWPE2euJFhb2nnR+eyNnMpXxtguM9yTmB
+t5RX35xsa+BhKdK2bnPrnyVPF3hs/v/z8OG2zBa9piunylqSVrw+cvfputDrNk5P
+OwQDl4a8X8rpXjXDzlD+3m3ubT+6JJ7Muf3KcuITve3XVvdcFNOXvsX9YnHnzfPp
+tkXT8kVv8rkddru+XUjEQWSOjfLrVOsnVsslfnjI3+r98odhv4LdvfU/yu2n/5vy
+yEiteEf6tAPrxdbvSHKvOcgr+O3LjEkGdkuO3gk8H7XifEuiU/CBn1vX/OTytPK6
+xX7c69DfK5N9583j/frgzrxYs2KjmaXxEV+nRKnyHipYnha2vTC+0voPy0+D3aem
+XHusHHI35vwl7UnSF+99fxz+9G11L3f09EXHUmYxeD49rfae530H4xKhas7czxwT
+s9sj/Ct3MM87VhRptVJn47U3/pLLl5s8D+xx+Cje4VRou8JbTVP4Ss/kjiczj1TM
+W7LFwY9l9qnNWRJb7u3q0dEU4mMoWtwbYTdRyuyU5mEdo5/PbRJOxS7IXj5j+tvn
+kXXCOYVbpp1ZsWT6s+KTCaxe53dZCu9WZ2hMaDd5dsHm1HQh9csemlEndNZGTu2p
+W/BquQVb+sujbJ/y3q3xvVMhuVPia5l36fz4S6mJG+UMOZn05Z88zAYA
+=sGlV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dlinsin
+
+==================================================================
